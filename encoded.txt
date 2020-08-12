@@ -1,0 +1,2 @@
+The Car on the left hit The car on The right because the car on the right was trying to turn left.
+The car on the left was not moving when it got hit by the car on the right.
